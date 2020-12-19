@@ -11,11 +11,6 @@ Write a Python program to get the number of followers of a specific account on T
 - Python 3.7.0
 - Selenium
 - Chromedriver version 87
--
-
-# Algorithm
-
-- Step 1 : Import
 
 # Problems
 
